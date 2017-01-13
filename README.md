@@ -1,24 +1,3 @@
-# README
+## devCamp Deep Dive into Rails ActionView
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> This deep dive examines various processes associated with ActionView. Specifically, we'll walk through: what ActionView is, how to manage views in a Rails application, how to work with partials, and much more.
